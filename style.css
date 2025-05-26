@@ -170,9 +170,17 @@ footer .about-company .container{
         font-size: 1.5rem;
     }
 
-    .section-three img{
-        margin: 0 auto;
-        width: 350px;
+.section-three img{
+ width: 300px;
+ margin-left: -50px;
+}
+.section-three .list .item h1{
+    margin-left: -50px;
+    width: 100%;
+}
+
+    footer .about-company{
+        flex-wrap: nowrap;
     }
  }
 
