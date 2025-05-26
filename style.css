@@ -155,6 +155,9 @@ footer .about-company .container{
  }
 
  @media screen and ( max-width:740px){
+      header{
+        margin: 2rem;
+    }
     header .main-headings{
         width: 100%;
     }
